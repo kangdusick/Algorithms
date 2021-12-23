@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{70ad1ced-141b-49ef-891c-59859678a0a4}</ProjectGuid>
-    <RootNamespace>UnionFind</RootNamespace>
+    <ProjectGuid>{679d9f25-afec-46da-8ef4-ee095125c7c1}</ProjectGuid>
+    <RootNamespace>BinarySearch</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,8 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BOJ16768.cpp" />
-    <ClCompile Include="BOJ1976.cpp" />
+    <ClCompile Include="BOJ2805.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
