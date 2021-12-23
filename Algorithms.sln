@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dijkstra", "Dijkstra\Dijkstra.vcxproj", "{785D71B5-2530-4AA8-8B3E-DE55F19E6455}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TopologySort", "TopologySort\TopologySort.vcxproj", "{1CA44A72-4DCE-4244-A417-3ED66FD323DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{785D71B5-2530-4AA8-8B3E-DE55F19E6455}.Release|x64.Build.0 = Release|x64
 		{785D71B5-2530-4AA8-8B3E-DE55F19E6455}.Release|x86.ActiveCfg = Release|Win32
 		{785D71B5-2530-4AA8-8B3E-DE55F19E6455}.Release|x86.Build.0 = Release|Win32
+		{1CA44A72-4DCE-4244-A417-3ED66FD323DE}.Debug|x64.ActiveCfg = Debug|x64
+		{1CA44A72-4DCE-4244-A417-3ED66FD323DE}.Debug|x64.Build.0 = Debug|x64
+		{1CA44A72-4DCE-4244-A417-3ED66FD323DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{1CA44A72-4DCE-4244-A417-3ED66FD323DE}.Debug|x86.Build.0 = Debug|Win32
+		{1CA44A72-4DCE-4244-A417-3ED66FD323DE}.Release|x64.ActiveCfg = Release|x64
+		{1CA44A72-4DCE-4244-A417-3ED66FD323DE}.Release|x64.Build.0 = Release|x64
+		{1CA44A72-4DCE-4244-A417-3ED66FD323DE}.Release|x86.ActiveCfg = Release|Win32
+		{1CA44A72-4DCE-4244-A417-3ED66FD323DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
