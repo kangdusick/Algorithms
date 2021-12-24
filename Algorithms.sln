@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TopologySort", "TopologySor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LongestIncreasingSubsequence", "LongestIncreasingSubsequence\LongestIncreasingSubsequence.vcxproj", "{5E402D40-8F7C-4E1A-BD2C-C71BECDED4F0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bit", "Bit\Bit.vcxproj", "{406A25A4-B93D-4A1C-AD10-AE1304044BAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{5E402D40-8F7C-4E1A-BD2C-C71BECDED4F0}.Release|x64.Build.0 = Release|x64
 		{5E402D40-8F7C-4E1A-BD2C-C71BECDED4F0}.Release|x86.ActiveCfg = Release|Win32
 		{5E402D40-8F7C-4E1A-BD2C-C71BECDED4F0}.Release|x86.Build.0 = Release|Win32
+		{406A25A4-B93D-4A1C-AD10-AE1304044BAB}.Debug|x64.ActiveCfg = Debug|x64
+		{406A25A4-B93D-4A1C-AD10-AE1304044BAB}.Debug|x64.Build.0 = Debug|x64
+		{406A25A4-B93D-4A1C-AD10-AE1304044BAB}.Debug|x86.ActiveCfg = Debug|Win32
+		{406A25A4-B93D-4A1C-AD10-AE1304044BAB}.Debug|x86.Build.0 = Debug|Win32
+		{406A25A4-B93D-4A1C-AD10-AE1304044BAB}.Release|x64.ActiveCfg = Release|x64
+		{406A25A4-B93D-4A1C-AD10-AE1304044BAB}.Release|x64.Build.0 = Release|x64
+		{406A25A4-B93D-4A1C-AD10-AE1304044BAB}.Release|x86.ActiveCfg = Release|Win32
+		{406A25A4-B93D-4A1C-AD10-AE1304044BAB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
